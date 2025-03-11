@@ -5,6 +5,7 @@
     <title>Funciones PHP</title>
 </head>
 <body>
+    <h1>Segunda modificación</h1>
     <button onclick="alert('<?php echo saludar(); ?>')">Saludar</button>
     <button onclick="alert('<?php echo sumar(3, 4); ?>')">Sumar 3 y 4</button>
     <button onclick="alert('<?php echo fechaActual(); ?>')">Mostrar Fecha Actual</button>
